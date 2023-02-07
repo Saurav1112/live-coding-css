@@ -1,0 +1,90 @@
+.flex {
+    display: flex;
+     width: 100%;
+     height: 50%; 
+    flex-wrap: wrap; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: whitesmoke;
+    margin-top: 10%;
+}
+.child {
+    width: auto;
+    text-align: center;
+    background-color: white;
+}
+
+.child2 {
+    text-align: center;
+   color: black;
+   font-size: 20px;
+   font-weight: bold;
+   width: 500px;
+   border: 2px;
+   border-radius: 20px;
+   border-style: solid;
+   border-color: whitesmoke;
+   line-height: 10px;
+   box-shadow: 5px 5px 2px lightblue;
+   margin-bottom: 30px;
+}
+
+.or {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.f1 {
+    font-size: 15px;
+    border: 2px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: lightgray;
+    margin-bottom: 30px;
+    width: 500px;
+}
+.child3 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 500px;
+    border: 2px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: whitesmoke;
+    line-height: 10px;
+    box-shadow: 5px 5px 2px lightblue;
+    margin-bottom: 30px;
+}
+
+.child4 {
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 500px;
+    border: 2px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: whitesmoke;
+    line-height: 10px;
+    box-shadow: 5px 5px 2px lightblue;
+    margin-bottom: 30px;
+}
+
+.child5 {
+    text-align: center;
+    color: lightgray;
+}
+.child6 {
+    margin-bottom: 10px;
+}
